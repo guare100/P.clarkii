@@ -1,4 +1,4 @@
 R scripts
 Article:
-Authors:
+Authors: Guareschi S, Cancellario T, Oficialdegui F, Clavero M.
 Date October 2022
