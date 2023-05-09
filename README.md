@@ -2,7 +2,7 @@
 # Title: Invasion trajectory and niche trends of a successful aquatic global invader 
 
 
-Authors: Guareschi S1, Cancellario T2, Oficialdegui FJ3, Clavero M1
+Authors: Guareschi S1, Cancellario T2, Oficialdegui FJ3, Clavero M1 <br>
 1 Estación Biológica de Doñana, EBD- CSIC, Sevilla, Spain
 2 Universitat de les Illes Balears, Palma de Maiorca, Spain
 3 University of South Bohemia, Faculty of Fisheries and Protection of Waters, South Bohemian Research Center of Aquaculture and Biodiversity of Hydrocenoses, České Budějovice, Czech Republic
