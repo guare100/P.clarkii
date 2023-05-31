@@ -9,7 +9,7 @@
 
 ## Code adapted from:
 ## Di Cola et al. 2017. ecospat: an R package to support spatial analyses and modeling of species niches and distributions. Ecography 40: 774-787
-## Lustenhouwer and Parker 2022. Beyond tracking climate: niche evolution during native range expansion and its implications for novel invasions. Journal of Biogeography
+## Lustenhouwer and Parker 2022. Beyond tracking climate: niche evolution during native range expansion and its implications for novel invasions. Journal of Biogeography 49(8), 1481-1493
 
 #-------------------------------------------------------------------------#
 # COUE analysis with ecospat. overlap, stability, equivalency, similarity #
