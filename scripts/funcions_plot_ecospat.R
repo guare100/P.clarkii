@@ -1,3 +1,6 @@
+## code adapted from:
+## Lustenhouwer and Parker 2022. Beyond tracking climate: niche evolution during native range expansion and its implications for novel invasions. Journal of Biogeography 49(8), 1481-1493
+
 myplot <- function (z1, z2, quant, title = "", name.axis1 = "Axis 1", name.axis2 = "Axis 2", 
                     interest = 1, colz1 = "#00FF0050", colz2 = "#FF000050", colinter = "#0000FF50", 
                     colZ1 = "green3", colZ2 = "red3",...) 
