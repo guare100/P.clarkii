@@ -1,11 +1,11 @@
-##################################################
-# Title: XXX                                     #
-# Scripts led by:                                #
-# Tommaso Cancellario & Simone Guareschi         #
-#                                                #
-# Creation: 2022 - 05 - 05                       #
-# Last update: 2023 - 05 - 20                    #
-##################################################
+####################################################################################################
+# Title: Insights from the past: Invasion trajectory and niche trends of a global aquatic invader  #                                            #
+#                                                                                                  #
+# Scripts led by: Tommaso Cancellario & Simone Guareschi                                           #
+#                                                                                                  #
+# Creation: 2022 - 05 - 05                                                                         #
+# Last update: 2023 - 05 - 20                                                                      #
+####################################################################################################
 
 ## Code adapted from:
 ## Di Cola et al. 2017. ecospat: an R package to support spatial analyses and modeling of species niches and distributions. Ecography 40: 774-787
