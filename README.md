@@ -1,13 +1,14 @@
-# Invasion trajectory and niche trends of a successful aquatic global invader 
+# Insights from the past: Invasion trajectory and niche trends of a global aquatic invader 
 
 Authors: Guareschi S <sup> 1 </sup>, Cancellario T<sup> 2 </sup>, Oficialdegui FJ<sup> 3 </sup>, Clavero M<sup> 1 </sup> <br>
 1 Estación Biológica de Doñana, EBD- CSIC, Sevilla, Spain <br>
 2 Universitat de les Illes Balears, Palma de Maiorca, Spain <br>
-3 University of South Bohemia, Faculty of Fisheries and Protection of Waters, South Bohemian Research Center of Aquaculture and Biodiversity of Hydrocenoses, České Budějovice, Czech Republic <br><br>
+3 University of South Bohemia in České Budějovice, Faculty of Fisheries and Protection of Waters, South Bohemian Research Center of Aquaculture and Biodiversity of Hydrocenoses, Vodňany, Czech Republic <br><br>
 
 Corresponding author: Simone Guareschi<br>
 Estación Biológica de Doñana - CSIC, 41092 Sevilla, Spain<br>
-s.guareschi@ebd.csic.es
+s.guareschi@ebd.csic.es<br>
+s.guareschi@gmail.com
 
 #### How to cite:<br>
 
