@@ -1,5 +1,5 @@
 ##################################################
-# Title: XXX                                     #
+#                                                #
 # Scripts led by:                                #
 # Tommaso Cancellario & Simone Guareschi         #
 #                                                #
