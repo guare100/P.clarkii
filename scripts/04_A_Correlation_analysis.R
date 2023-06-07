@@ -1,11 +1,11 @@
-##################################################
-# Title: XXX                                     #
-# Scripts led by:                                #
-# Tommaso Cancellario & Simone Guareschi         #
-#                                                #
-# Creation: 2022 - 05 - 05                       #
-# Last update: 2023 - 05 - 20                    #
-##################################################
+####################################################################################################
+# Title: Insights from the past: Invasion trajectory and niche trends of a global aquatic invader  #                                            #
+#                                                                                                  #
+# Scripts led by: Tommaso Cancellario & Simone Guareschi                                           #
+#                                                                                                  #
+# Creation: 2022 - 05 - 05                                                                         #
+# Last update: 2023 - 05 - 20                                                                      #
+####################################################################################################
 
 #----------------------#
 # Correlation analysis #
@@ -78,27 +78,27 @@ colnames(variable.select)
 vif.res <- vif(variable.select)
 sort(vif.res)
 
-# Rimove: bio3
+# Remove: bio3
 variable.select$bio3_bv_41_50 <- NULL
 vif.res <- vif(variable.select)
 sort(vif.res)
 
-# Rimove: bio12
+# Remove: bio12
 variable.select$bio12_bv_41_50 <- NULL
 vif.res <- vif(variable.select)
 sort(vif.res)
 
-# Rimove: bio02
+# Remove: bio02
 variable.select$bio2_bv_41_50 <- NULL
 vif.res <- vif(variable.select)
 sort(vif.res)
 
-# Rimove: bio17
+# Remove: bio17
 variable.select$bio17_bv_41_50 <- NULL
 vif.res <- vif(variable.select)
 sort(vif.res)
 
-# Rimove: bio08
+# Remove: bio08
 variable.select$bio8_bv_41_50 <- NULL
 vif.res <- vif(variable.select)
 sort(vif.res)
