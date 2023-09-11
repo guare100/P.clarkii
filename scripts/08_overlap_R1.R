@@ -24,7 +24,7 @@ library(raster)
 library(ggplot2)
 
 
-#### 1950 (raster files available on OSF. See data availability statement)
+#### 1950 (raster files available on OSF. See Data Accessibility Statement)
 
 over.50_22 <- raster("./Results/binary_R1/overlap_50_22_R1.tif")
 
