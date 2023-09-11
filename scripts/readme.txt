@@ -1,5 +1,5 @@
 R scripts
-Article:
+Article: Insights from the past: Invasion trajectory and niche trends of a global freshwater invader 
 Authors: Guareschi S, Cancellario T, Oficialdegui F, Clavero M.
 ##################################################
 #                                                #
@@ -7,5 +7,5 @@ Authors: Guareschi S, Cancellario T, Oficialdegui F, Clavero M.
 # Tommaso Cancellario & Simone Guareschi         #
 #                                                #
 # Creation: 2022 - 05 - 05                       #
-# Last update: 2023 - 05 - 20                    #
+# Last update: 2023 - 09 - 10                    #
 ##################################################
