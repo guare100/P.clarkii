@@ -1,11 +1,11 @@
-####################################################################################################
-# Title: Insights from the past: Invasion trajectory and niche trends of a global aquatic invader  #                                            #
-#                                                                                                  #
-# Scripts led by: Tommaso Cancellario & Simone Guareschi                                           #
-#                                                                                                  #
-# Creation: 2022 - 05 - 05                                                                         #
-# Last update: 2023 - 05 - 20                                                                      #
-####################################################################################################
+#####################################################################################################
+# Title: Insights from the past: Invasion trajectory and niche trends of a global freshwater invader#                                          
+#                                                                                                   #
+# Scripts led by: Tommaso Cancellario & Simone Guareschi                                            #
+#                                                                                                   #
+# Creation: 2022 - 05 - 05                                                                          #
+# Last update: 2023 - 05 - 10                                                                       #
+#####################################################################################################
 
 #----------------#
 # Modelling 2000 #
@@ -19,7 +19,6 @@ library(parallel)
 library(raster) # GIS
 library(rgeos) # GIS
 library(terra) # requested by biomod2 4.1-2
-
 
 # Set working directory ----
 # setwd("./")
