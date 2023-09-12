@@ -1,6 +1,6 @@
 
 #####################################################################################################
-# Title: Insights from the past: Invasion trajectory and niche trends of a global freshwater invader#                                            #
+# Title: Insights from the past: Invasion trajectory and niche trends of a global freshwater invader#                                            
 #                                                                                                   #
 # Scripts led by: Tommaso Cancellario & Simone Guareschi                                            #
 #                                                                                                   #
