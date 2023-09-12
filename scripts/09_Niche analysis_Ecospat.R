@@ -12,7 +12,8 @@
 ## Lustenhouwer and Parker 2022. Beyond tracking climate: niche evolution during native range expansion and its implications for novel invasions. Journal of Biogeography 49(8), 1481-1493
 
 #-------------------------------------------------------------------------#
-# COUE analysis with ecospat. overlap, stability, equivalency, similarity #
+# Analysis with ecospat: overlap, stability, equivalency, similarity      #
+# Figure 5 and S7-S8                                                      #
 #-------------------------------------------------------------------------#
 
 # Load libraries ----
